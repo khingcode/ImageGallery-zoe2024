@@ -35,11 +35,23 @@ function togglePopup11(){
     document.getElementById("Earl").classList.toggle("active");
 }
 function togglePopup12(){
-    document.getElementById("Deej").classList.toggle("active");
+    document.getElementById("Myles").classList.toggle("active");
 }
 function togglePopup13(){
-    document.getElementById("Rhoyd").classList.toggle("active");
+    document.getElementById("Deej").classList.toggle("active");
 }
 function togglePopup14(){
     document.getElementById("Rhoyd").classList.toggle("active");
 }
+function togglePopup15(){
+    document.getElementById("Rhoyd").classList.toggle("active");
+}
+
+function togglePopup16(){
+    document.getElementById("Rhoyd").classList.toggle("active");
+}
+
+function togglePopup16(){
+    document.getElementById("Rhoyd").classList.toggle("active");
+}
+
